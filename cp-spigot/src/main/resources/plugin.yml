@@ -1,0 +1,4 @@
+name: cp-spigot
+version: '${version}'
+main: ru.clouddonate.spigot.CloudPayments
+api-version: '1.16'

@@ -1,0 +1,3 @@
+name: cp-bungee
+version: '1.0-SNAPSHOT'
+main: ru.clouddonate.bungee.CloudPayments
